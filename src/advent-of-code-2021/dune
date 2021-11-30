@@ -3,7 +3,7 @@
   (name main)
   (public_name advent-of-code-2021)
   (package advent-of-code-2021)
-  (libraries  )
+  (libraries fpath core )
   
   
   )

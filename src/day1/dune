@@ -3,7 +3,7 @@
   (name main)
   (public_name day1)
   (package day1)
-  (libraries  )
+  (libraries fpath core )
   
   
   )

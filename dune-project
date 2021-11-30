@@ -13,6 +13,8 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
+   fpath
+   core
    ppx_inline_test
    ppx_expect
    odoc
@@ -28,6 +30,8 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
+   fpath
+   core
    ppx_inline_test
    ppx_expect
    odoc

@@ -32,6 +32,8 @@ install: [
 depends: [
   "ocaml" {>= "4.07.0"}
   "dune" {>= "2.7.0"}
+  "fpath" {}
+  "core" {}
   "ppx_inline_test" {with-test}
   "ppx_expect" {with-test}
   "odoc" {with-doc}

@@ -32,6 +32,8 @@ skip = []
 
 # project-wide library dependencies (not for package-specific deps)
 [dependencies]
+core = ""
+fpath = ""
 
 # project-wide tools dependencies (not for package-specific deps)
 [tools]
