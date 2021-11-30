@@ -13,11 +13,12 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
-   ocaml-lsp-server
    ppx_inline_test
    ppx_expect
    odoc
    ocamlformat
+   ocaml-lsp-server
+   camelot
   )
  )
 
@@ -27,11 +28,12 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
-   ocaml-lsp-server
    ppx_inline_test
    ppx_expect
    odoc
    ocamlformat
+   ocaml-lsp-server
+   camelot
   )
  )
 

@@ -35,6 +35,7 @@ skip = []
 
 # project-wide tools dependencies (not for package-specific deps)
 [tools]
+camelot = ""
 ocaml-lsp-server = ""
 [tools.ocamlformat]
 for-test = true
