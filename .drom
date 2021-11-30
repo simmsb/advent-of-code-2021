@@ -5,12 +5,12 @@ version:0.6.0~dev
 
 # hash of toml configuration files
 # used for generation of all files
-5065925aae2b68019f2b2047eabed00b:.
+510fdccabe7d0a1de2f5f546bae66b94:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
 # file .github/workflows/workflow.yml
-aaea2cfb0b285c6ae33642f7f0636003:.github/workflows/workflow.yml
+20f408bfab9624049f5b45e84850e3b7:.github/workflows/workflow.yml
 # end context for .github/workflows/workflow.yml
 
 # begin context for .gitignore
@@ -45,7 +45,7 @@ c5a54fbd353722c4226dcbdda7cd156b:LICENSE.md
 
 # begin context for Makefile
 # file Makefile
-4fb851697f6e54e17d6ba6bfe2c05218:Makefile
+33d61d019bc8b1965b795130649adf9f:Makefile
 # end context for Makefile
 
 # begin context for README.md
@@ -145,7 +145,7 @@ bb3a9d286f0dc64021db4194427263ee:scripts/copy-bin.sh
 
 # begin context for sphinx/install.rst
 # file sphinx/install.rst
-8b5f0609c779e818656991650bc04540:sphinx/install.rst
+8811bb6b02cd8a45ca09af2666d8eae7:sphinx/install.rst
 # end context for sphinx/install.rst
 
 # begin context for sphinx/license.rst

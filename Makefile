@@ -20,7 +20,7 @@ build:
 
 build-deps:
 	if ! [ -e _opam ]; then \
-	   opam switch create . 4.10.0 ; \
+	   opam switch create . 4.13.1 ; \
 	fi
 	opam install ./*.opam --deps-only
 
