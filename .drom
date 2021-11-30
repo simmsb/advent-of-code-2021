@@ -1,0 +1,239 @@
+# Keep this file in your GIT repo to help drom track generated files
+# begin version
+version:0.6.0~dev
+# end version
+
+# hash of toml configuration files
+# used for generation of all files
+59de90bffc09f8867b46a2f3461f71ca:.
+# end context for .
+
+# begin context for .github/workflows/workflow.yml
+# file .github/workflows/workflow.yml
+1ce89c010cd69bb4076e6c0b8aab4a08:.github/workflows/workflow.yml
+# end context for .github/workflows/workflow.yml
+
+# begin context for .gitignore
+# file .gitignore
+1323973154da88395f60ae2e1e57f5b3:.gitignore
+# end context for .gitignore
+
+# begin context for .ocamlformat
+# file .ocamlformat
+51f788c6dcd47d33ffec6427b686ed4f:.ocamlformat
+# end context for .ocamlformat
+
+# begin context for .ocamlformat-ignore
+# file .ocamlformat-ignore
+a8d1bcd6f62c6b813b77d3ff8959d8d2:.ocamlformat-ignore
+# end context for .ocamlformat-ignore
+
+# begin context for .ocp-indent
+# file .ocp-indent
+6048407431b8d9baf725ae5365d4c2f2:.ocp-indent
+# end context for .ocp-indent
+
+# begin context for CHANGES.md
+# file CHANGES.md
+a2a1c76e03fc3c52ba0edebb4a4ee59d:CHANGES.md
+# end context for CHANGES.md
+
+# begin context for LICENSE.md
+# file LICENSE.md
+6dcdb6ede285550a452c7f5934c8d41d:LICENSE.md
+# end context for LICENSE.md
+
+# begin context for Makefile
+# file Makefile
+bda65da9550a114166eede1b44bb890a:Makefile
+# end context for Makefile
+
+# begin context for README.md
+# file README.md
+2ed82353755971b8efe82fa3ebdb9e93:README.md
+# end context for README.md
+
+# begin context for docs/README.txt
+# file docs/README.txt
+bfbacf00053bb9ab2a6e2ce94ed4a642:docs/README.txt
+# end context for docs/README.txt
+
+# begin context for docs/doc/index.html
+# file docs/doc/index.html
+401bbd4cf9416f1c71215b2fa1a6948a:docs/doc/index.html
+# end context for docs/doc/index.html
+
+# begin context for docs/favicon.png
+# file docs/favicon.png
+e739f3026aa997af4026bc428f4c9ef6:docs/favicon.png
+# end context for docs/favicon.png
+
+# begin context for docs/index.html
+# file docs/index.html
+b0ef8ce6a0076d52e1d7d71f402173a3:docs/index.html
+# end context for docs/index.html
+
+# begin context for docs/sphinx/index.html
+# file docs/sphinx/index.html
+720cc20499cc584c9e6edd9129cdd5f1:docs/sphinx/index.html
+# end context for docs/sphinx/index.html
+
+# begin context for docs/style.css
+# file docs/style.css
+c8281f46ba9a11d0b61bc8ef67eaa357:docs/style.css
+# end context for docs/style.css
+
+# begin context for drom.toml
+# file drom.toml
+efd39d731684c506d558f7b8af65641d:drom.toml
+# end context for drom.toml
+
+# begin context for dune
+# file dune
+0d57afa9756f983af2551804954af609:dune
+# end context for dune
+
+# begin context for dune-project
+# file dune-project
+b38da9547dd43011f267e6730541ebc3:dune-project
+# end context for dune-project
+
+# begin context for opam/advent-of-code-2021.opam
+# file opam/advent-of-code-2021.opam
+d127ddd7741aa0d0e5314f1dc57bffd8:opam/advent-of-code-2021.opam
+# end context for opam/advent-of-code-2021.opam
+
+# begin context for opam/advent_of_code_2021_lib.opam
+# file opam/advent_of_code_2021_lib.opam
+d4d1ef49f7a6056b5f4074f48257e5df:opam/advent_of_code_2021_lib.opam
+# end context for opam/advent_of_code_2021_lib.opam
+
+# begin context for scripts/after.sh
+# file scripts/after.sh
+1112fbe7067fce342365a25613b5659d:scripts/after.sh
+# end context for scripts/after.sh
+
+# begin context for scripts/before.sh
+# file scripts/before.sh
+ae050b3099ac0b43d7c7f4295f6b2319:scripts/before.sh
+# end context for scripts/before.sh
+
+# begin context for scripts/copy-bin.sh
+# file scripts/copy-bin.sh
+bb3a9d286f0dc64021db4194427263ee:scripts/copy-bin.sh
+# end context for scripts/copy-bin.sh
+
+# begin context for sphinx/_static/css/fixes.css
+# file sphinx/_static/css/fixes.css
+20bbe7a5dbb3c3278a1511d960616fe5:sphinx/_static/css/fixes.css
+# end context for sphinx/_static/css/fixes.css
+
+# begin context for sphinx/about.rst
+# file sphinx/about.rst
+396134c7735735b6a6dae538a3d481de:sphinx/about.rst
+# end context for sphinx/about.rst
+
+# begin context for sphinx/conf.py
+# file sphinx/conf.py
+1337811f105dfdda56d6e0ec76f96883:sphinx/conf.py
+# end context for sphinx/conf.py
+
+# begin context for sphinx/index.rst
+# file sphinx/index.rst
+7df829927683dd729e250f0bdf3411c1:sphinx/index.rst
+# end context for sphinx/index.rst
+
+# begin context for sphinx/install.rst
+# file sphinx/install.rst
+8b5f0609c779e818656991650bc04540:sphinx/install.rst
+# end context for sphinx/install.rst
+
+# begin context for sphinx/license.rst
+# file sphinx/license.rst
+a8f61411fb681900fbee69d8f7c3366b:sphinx/license.rst
+# end context for sphinx/license.rst
+
+# begin context for src/advent-of-code-2021/dune
+# file src/advent-of-code-2021/dune
+be4e6141c55993ac8c395cfd5f34f9a2:src/advent-of-code-2021/dune
+# end context for src/advent-of-code-2021/dune
+
+# begin context for src/advent-of-code-2021/index.mld
+# file src/advent-of-code-2021/index.mld
+5dd31902cc305b53c7d396552b505629:src/advent-of-code-2021/index.mld
+# end context for src/advent-of-code-2021/index.mld
+
+# begin context for src/advent-of-code-2021/main.ml
+# file src/advent-of-code-2021/main.ml
+93b8ef8776e0a989a421f0cb5b027b63:src/advent-of-code-2021/main.ml
+# end context for src/advent-of-code-2021/main.ml
+
+# begin context for src/advent-of-code-2021/package.toml
+# file src/advent-of-code-2021/package.toml
+31c5711242726540780121bba2b6190d:src/advent-of-code-2021/package.toml
+# end context for src/advent-of-code-2021/package.toml
+
+# begin context for src/advent_of_code_2021_lib/dune
+# file src/advent_of_code_2021_lib/dune
+cffcb33543a654ae71ec2ca3b02a0b8d:src/advent_of_code_2021_lib/dune
+# end context for src/advent_of_code_2021_lib/dune
+
+# begin context for src/advent_of_code_2021_lib/index.mld
+# file src/advent_of_code_2021_lib/index.mld
+cf0c8d81b6ebf649d95117d7a33481dd:src/advent_of_code_2021_lib/index.mld
+# end context for src/advent_of_code_2021_lib/index.mld
+
+# begin context for src/advent_of_code_2021_lib/main.ml
+# file src/advent_of_code_2021_lib/main.ml
+410955ddea52b15383cce9fa7058ca05:src/advent_of_code_2021_lib/main.ml
+# end context for src/advent_of_code_2021_lib/main.ml
+
+# begin context for src/advent_of_code_2021_lib/package.toml
+# file src/advent_of_code_2021_lib/package.toml
+7d179bc6260fb3d99f998d6e01c4d7ec:src/advent_of_code_2021_lib/package.toml
+# end context for src/advent_of_code_2021_lib/package.toml
+
+# begin context for src/advent_of_code_2021_lib/version.mlt
+# file src/advent_of_code_2021_lib/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/advent_of_code_2021_lib/version.mlt
+# end context for src/advent_of_code_2021_lib/version.mlt
+
+# begin context for test/expect-tests/dune
+# file test/expect-tests/dune
+e9856caafe1ec69810ba6b7377e260bc:test/expect-tests/dune
+# end context for test/expect-tests/dune
+
+# begin context for test/expect-tests/test.ml
+# file test/expect-tests/test.ml
+24150bafd4bec9b34e6c2987843f0d50:test/expect-tests/test.ml
+# end context for test/expect-tests/test.ml
+
+# begin context for test/inline-tests/dune
+# file test/inline-tests/dune
+4a8a02c2cff3ecd6b256d0e1a7ff4003:test/inline-tests/dune
+# end context for test/inline-tests/dune
+
+# begin context for test/inline-tests/test.ml
+# file test/inline-tests/test.ml
+37b8bc6035cda6302a80178c61f9626e:test/inline-tests/test.ml
+# end context for test/inline-tests/test.ml
+
+# begin context for test/output-tests/dune
+# file test/output-tests/dune
+b8b736ed3975cd32a6519e4110629547:test/output-tests/dune
+# end context for test/output-tests/dune
+
+# begin context for test/output-tests/test1.expected
+# file test/output-tests/test1.expected
+dc8d6157230e9ef8e965865f990fbc49:test/output-tests/test1.expected
+# end context for test/output-tests/test1.expected
+
+# begin context for test/output-tests/test2.expected
+# file test/output-tests/test2.expected
+ee63957b3b77455a12e6c269a5032c3f:test/output-tests/test2.expected
+# end context for test/output-tests/test2.expected
+
+# begin context for test/output-tests/test2.ml
+# file test/output-tests/test2.ml
+e8eaab7626ef0aace5e570fffe81f869:test/output-tests/test2.ml
+# end context for test/output-tests/test2.ml

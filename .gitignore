@@ -1,0 +1,11 @@
+/advent-of-code-2021
+*~
+_build
+.merlin
+.vscode
+/_drom
+/_opam
+/_build
+.drom.config
+
+
