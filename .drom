@@ -5,17 +5,17 @@ version:0.6.0~dev
 
 # hash of toml configuration files
 # used for generation of all files
-59de90bffc09f8867b46a2f3461f71ca:.
+c948cc811af27da715ecfdd4d73340d9:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
 # file .github/workflows/workflow.yml
-1ce89c010cd69bb4076e6c0b8aab4a08:.github/workflows/workflow.yml
+aaea2cfb0b285c6ae33642f7f0636003:.github/workflows/workflow.yml
 # end context for .github/workflows/workflow.yml
 
 # begin context for .gitignore
 # file .gitignore
-1323973154da88395f60ae2e1e57f5b3:.gitignore
+16c0205da1c620e26c3bd17bce4dde0a:.gitignore
 # end context for .gitignore
 
 # begin context for .ocamlformat
@@ -40,12 +40,12 @@ a2a1c76e03fc3c52ba0edebb4a4ee59d:CHANGES.md
 
 # begin context for LICENSE.md
 # file LICENSE.md
-6dcdb6ede285550a452c7f5934c8d41d:LICENSE.md
+c5a54fbd353722c4226dcbdda7cd156b:LICENSE.md
 # end context for LICENSE.md
 
 # begin context for Makefile
 # file Makefile
-bda65da9550a114166eede1b44bb890a:Makefile
+4fb851697f6e54e17d6ba6bfe2c05218:Makefile
 # end context for Makefile
 
 # begin context for README.md
@@ -85,7 +85,7 @@ c8281f46ba9a11d0b61bc8ef67eaa357:docs/style.css
 
 # begin context for drom.toml
 # file drom.toml
-efd39d731684c506d558f7b8af65641d:drom.toml
+5ce91c439c7516321a7631e528be66d5:drom.toml
 # end context for drom.toml
 
 # begin context for dune
@@ -95,18 +95,18 @@ efd39d731684c506d558f7b8af65641d:drom.toml
 
 # begin context for dune-project
 # file dune-project
-b38da9547dd43011f267e6730541ebc3:dune-project
+d2462ddf517bfdbf31de4bc44a5b8381:dune-project
 # end context for dune-project
 
 # begin context for opam/advent-of-code-2021.opam
 # file opam/advent-of-code-2021.opam
-d127ddd7741aa0d0e5314f1dc57bffd8:opam/advent-of-code-2021.opam
+d70a93e3c2ab5d9c9c9e3008036ba37d:opam/advent-of-code-2021.opam
 # end context for opam/advent-of-code-2021.opam
 
-# begin context for opam/advent_of_code_2021_lib.opam
-# file opam/advent_of_code_2021_lib.opam
-d4d1ef49f7a6056b5f4074f48257e5df:opam/advent_of_code_2021_lib.opam
-# end context for opam/advent_of_code_2021_lib.opam
+# begin context for opam/day1.opam
+# file opam/day1.opam
+2bcff12f3df43bf5b6005db9e27a8a85:opam/day1.opam
+# end context for opam/day1.opam
 
 # begin context for scripts/after.sh
 # file scripts/after.sh
@@ -150,12 +150,12 @@ bb3a9d286f0dc64021db4194427263ee:scripts/copy-bin.sh
 
 # begin context for sphinx/license.rst
 # file sphinx/license.rst
-a8f61411fb681900fbee69d8f7c3366b:sphinx/license.rst
+dc750793f714fc7102cc46ba42a5415b:sphinx/license.rst
 # end context for sphinx/license.rst
 
 # begin context for src/advent-of-code-2021/dune
 # file src/advent-of-code-2021/dune
-be4e6141c55993ac8c395cfd5f34f9a2:src/advent-of-code-2021/dune
+35f23e78285836dbfed06e47420dff31:src/advent-of-code-2021/dune
 # end context for src/advent-of-code-2021/dune
 
 # begin context for src/advent-of-code-2021/index.mld
@@ -170,37 +170,32 @@ be4e6141c55993ac8c395cfd5f34f9a2:src/advent-of-code-2021/dune
 
 # begin context for src/advent-of-code-2021/package.toml
 # file src/advent-of-code-2021/package.toml
-31c5711242726540780121bba2b6190d:src/advent-of-code-2021/package.toml
+7b808f25ed10643dee28b203334df22b:src/advent-of-code-2021/package.toml
 # end context for src/advent-of-code-2021/package.toml
 
-# begin context for src/advent_of_code_2021_lib/dune
-# file src/advent_of_code_2021_lib/dune
-cffcb33543a654ae71ec2ca3b02a0b8d:src/advent_of_code_2021_lib/dune
-# end context for src/advent_of_code_2021_lib/dune
+# begin context for src/day1/dune
+# file src/day1/dune
+eda023898b171bb5f6b152c005a57679:src/day1/dune
+# end context for src/day1/dune
 
-# begin context for src/advent_of_code_2021_lib/index.mld
-# file src/advent_of_code_2021_lib/index.mld
-cf0c8d81b6ebf649d95117d7a33481dd:src/advent_of_code_2021_lib/index.mld
-# end context for src/advent_of_code_2021_lib/index.mld
+# begin context for src/day1/main.ml
+# file src/day1/main.ml
+268e9936ce1740306dbb9c625eba2f7e:src/day1/main.ml
+# end context for src/day1/main.ml
 
-# begin context for src/advent_of_code_2021_lib/main.ml
-# file src/advent_of_code_2021_lib/main.ml
-410955ddea52b15383cce9fa7058ca05:src/advent_of_code_2021_lib/main.ml
-# end context for src/advent_of_code_2021_lib/main.ml
+# begin context for src/day1/package.toml
+# file src/day1/package.toml
+8b5742c23aa54b44380d2dcdce94de25:src/day1/package.toml
+# end context for src/day1/package.toml
 
-# begin context for src/advent_of_code_2021_lib/package.toml
-# file src/advent_of_code_2021_lib/package.toml
-7d179bc6260fb3d99f998d6e01c4d7ec:src/advent_of_code_2021_lib/package.toml
-# end context for src/advent_of_code_2021_lib/package.toml
-
-# begin context for src/advent_of_code_2021_lib/version.mlt
-# file src/advent_of_code_2021_lib/version.mlt
-940d29cde7f16cd0916ed1d5f9c41154:src/advent_of_code_2021_lib/version.mlt
-# end context for src/advent_of_code_2021_lib/version.mlt
+# begin context for src/day1/version.mlt
+# file src/day1/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/day1/version.mlt
+# end context for src/day1/version.mlt
 
 # begin context for test/expect-tests/dune
 # file test/expect-tests/dune
-e9856caafe1ec69810ba6b7377e260bc:test/expect-tests/dune
+8ef72e0447cc68be35b3a5b6755b297f:test/expect-tests/dune
 # end context for test/expect-tests/dune
 
 # begin context for test/expect-tests/test.ml
@@ -210,7 +205,7 @@ e9856caafe1ec69810ba6b7377e260bc:test/expect-tests/dune
 
 # begin context for test/inline-tests/dune
 # file test/inline-tests/dune
-4a8a02c2cff3ecd6b256d0e1a7ff4003:test/inline-tests/dune
+1db929404d44aa192f1fa7a3c7a1f2b9:test/inline-tests/dune
 # end context for test/inline-tests/dune
 
 # begin context for test/inline-tests/test.ml
@@ -220,7 +215,7 @@ e9856caafe1ec69810ba6b7377e260bc:test/expect-tests/dune
 
 # begin context for test/output-tests/dune
 # file test/output-tests/dune
-b8b736ed3975cd32a6519e4110629547:test/output-tests/dune
+7ec9f3e162695cb70a0314b0ebcb428f:test/output-tests/dune
 # end context for test/output-tests/dune
 
 # begin context for test/output-tests/test1.expected

@@ -3,7 +3,7 @@
 opam-version: "2.0"
 name: "advent-of-code-2021"
 version: "0.1.0"
-license: "LGPL-2.1-only with OCaml-LGPL-linking-exception"
+license: "MIT"
 synopsis: "The advent-of-code-2021 project"
 description: """\
 My solutions to the AOC 2021
@@ -32,7 +32,7 @@ install: [
 depends: [
   "ocaml" {>= "4.07.0"}
   "dune" {>= "2.7.0"}
-  "advent_of_code_2021_lib" {= version}
+  "ocaml-lsp-server" {}
   "ppx_inline_test" {with-test}
   "ppx_expect" {with-test}
   "odoc" {with-doc}

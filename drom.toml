@@ -6,7 +6,7 @@ authors = ["Ben Simms <ben@bensimms.moe>"]
 ci-systems = ["ubuntu-latest", "macos-latest", "windows-latest"]
 copyright = "Ben Simms <ben@bensimms.moe>"
 edition = "4.10.0"
-license = "LGPL2"
+license = "MIT"
 min-edition = "4.07.0"
 name = "advent-of-code-2021"
 synopsis = "The advent-of-code-2021 project"
@@ -34,6 +34,8 @@ skip = []
 [dependencies]
 
 # project-wide tools dependencies (not for package-specific deps)
+[tools]
+ocaml-lsp-server = ""
 [tools.ocamlformat]
 for-test = true
 [tools.odoc]
@@ -70,6 +72,6 @@ dir = "src/advent-of-code-2021"
 # edit 'src/advent-of-code-2021/package.toml' for package-specific options
 
 [[package]]
-dir = "src/advent_of_code_2021_lib"
-# edit 'src/advent_of_code_2021_lib/package.toml' for package-specific options
+dir = "src/day1"
+# edit 'src/day1/package.toml' for package-specific options
 

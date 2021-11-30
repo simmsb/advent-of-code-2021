@@ -13,7 +13,7 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
-   (advent_of_code_2021_lib (= version))
+   ocaml-lsp-server
    ppx_inline_test
    ppx_expect
    odoc
@@ -22,11 +22,12 @@
  )
 
 (package
- (name advent_of_code_2021_lib)
+ (name day1)
  (synopsis "The advent-of-code-2021 project")
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
+   ocaml-lsp-server
    ppx_inline_test
    ppx_expect
    odoc

@@ -59,7 +59,7 @@ jobs:
 
       - run: opam pin add . -y --no-action
 
-      - run: opam depext -y advent-of-code-2021 advent_of_code_2021_lib
+      - run: opam depext -y advent-of-code-2021 day1
 #        if: steps.cache-opam.outputs.cache-hit != 'true'
 
       - run: opam install -y opam/*.opam --deps-only --with-test
