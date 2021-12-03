@@ -15,12 +15,12 @@
    (ocaml (>= 4.07.0))
    fpath
    core
+   angstrom
+   ppx_let
    ppx_inline_test
    ppx_expect
    odoc
    ocamlformat
-   ocaml-lsp-server
-   camelot
   )
  )
 
@@ -30,14 +30,68 @@
  (description "My solutions to the AOC 2021\n")
  (depends
    (ocaml (>= 4.07.0))
+   (lib (= version))
    fpath
    core
+   angstrom
+   ppx_let
    ppx_inline_test
    ppx_expect
    odoc
    ocamlformat
-   ocaml-lsp-server
-   camelot
+  )
+ )
+
+(package
+ (name day2)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   (lib (= version))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
+(package
+ (name day3)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   (lib (= version))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
+(package
+ (name lib)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
   )
  )
 

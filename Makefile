@@ -15,7 +15,7 @@ all: build
 build:
 	./scripts/before.sh build
 	opam exec -- dune build @install
-	./scripts/copy-bin.sh advent-of-code-2021 day1
+	./scripts/copy-bin.sh advent-of-code-2021 day1 day2 day3 lib
 	./scripts/after.sh build
 
 build-deps:

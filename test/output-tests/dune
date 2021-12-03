@@ -19,7 +19,7 @@
 
 (executable
  (name test2)
- (libraries ) ; add your own library here
+ (libraries lib) ; add your own library here
  )
 
 (alias

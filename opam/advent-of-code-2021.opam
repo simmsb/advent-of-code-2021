@@ -34,10 +34,10 @@ depends: [
   "dune" {>= "2.7.0"}
   "fpath" {}
   "core" {}
+  "angstrom" {}
+  "ppx_let" {}
   "ppx_inline_test" {with-test}
   "ppx_expect" {with-test}
   "odoc" {with-doc}
   "ocamlformat" {with-test}
-  "ocaml-lsp-server" {}
-  "camelot" {}
 ]

@@ -32,13 +32,11 @@ skip = []
 
 # project-wide library dependencies (not for package-specific deps)
 [dependencies]
+angstrom = ""
 core = ""
 fpath = ""
 
 # project-wide tools dependencies (not for package-specific deps)
-[tools]
-camelot = ""
-ocaml-lsp-server = ""
 [tools.ocamlformat]
 for-test = true
 [tools.odoc]
@@ -47,6 +45,7 @@ for-doc = true
 for-test = true
 [tools.ppx_inline_test]
 for-test = true
+[tools.ppx_let]
 
 [project]
 
@@ -77,4 +76,16 @@ dir = "src/advent-of-code-2021"
 [[package]]
 dir = "src/day1"
 # edit 'src/day1/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day2"
+# edit 'src/day2/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day3"
+# edit 'src/day3/package.toml' for package-specific options
+
+[[package]]
+dir = "src/lib"
+# edit 'src/lib/package.toml' for package-specific options
 

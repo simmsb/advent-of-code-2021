@@ -1,6 +1,6 @@
 
 # name of package
-name = "day1"
+name = "day2"
 skeleton = "program"
 
 # version if different from project version
@@ -36,7 +36,7 @@ gen-version = "version.ml"
 
 # preprocessing options
 #  preprocess = "per-module (((action (run ./toto.sh %{input-file})) mod))" 
-# preprocess = "pps ppx_deriving_encoding"
+preprocess = "pps ppx_let"
 
 # files to skip while updating at package level
 # skip = []
