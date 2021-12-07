@@ -35,8 +35,11 @@ skip = []
 angstrom = ""
 core = ""
 fpath = ""
+# owl = ""
 
 # project-wide tools dependencies (not for package-specific deps)
+[tools]
+ppx_let = ""
 [tools.ocamlformat]
 for-test = true
 [tools.odoc]
@@ -45,7 +48,6 @@ for-doc = true
 for-test = true
 [tools.ppx_inline_test]
 for-test = true
-[tools.ppx_let]
 
 [project]
 
@@ -88,4 +90,20 @@ dir = "src/day3"
 [[package]]
 dir = "src/lib"
 # edit 'src/lib/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day4"
+# edit 'src/day4/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day5"
+# edit 'src/day5/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day6"
+# edit 'src/day6/package.toml' for package-specific options
+
+[[package]]
+dir = "src/day7"
+# edit 'src/day7/package.toml' for package-specific options
 

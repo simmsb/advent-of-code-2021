@@ -5,17 +5,17 @@ version:0.6.0~dev
 
 # hash of toml configuration files
 # used for generation of all files
-6c13ec1b91e6a615b005cdb57f0c6e2c:.
+40cd604332e157acd75e638ee521c839:.
 # end context for .
 
 # begin context for .github/workflows/workflow.yml
 # file .github/workflows/workflow.yml
-d4c4fea246d0956bc090a334cc0942ab:.github/workflows/workflow.yml
+bcfc049491f5b7c38dc86181ad835c14:.github/workflows/workflow.yml
 # end context for .github/workflows/workflow.yml
 
 # begin context for .gitignore
 # file .gitignore
-3469ae84dbaab650173b5b3411a6e1c0:.gitignore
+91dce561a88990f769d759d1e5d0fa68:.gitignore
 # end context for .gitignore
 
 # begin context for .ocamlformat
@@ -35,7 +35,7 @@ a8d1bcd6f62c6b813b77d3ff8959d8d2:.ocamlformat-ignore
 
 # begin context for CHANGES.md
 # file CHANGES.md
-cf6d546360c39f54aa68fb57dab086c2:CHANGES.md
+398aa3ae3f2774638e92019753fdb182:CHANGES.md
 # end context for CHANGES.md
 
 # begin context for LICENSE.md
@@ -45,7 +45,7 @@ c5a54fbd353722c4226dcbdda7cd156b:LICENSE.md
 
 # begin context for Makefile
 # file Makefile
-c899e6ee4d85f84acdff45e12f0d4ecb:Makefile
+31b2f775e42f5c38d829ed28ff521c9c:Makefile
 # end context for Makefile
 
 # begin context for README.md
@@ -85,7 +85,7 @@ c8281f46ba9a11d0b61bc8ef67eaa357:docs/style.css
 
 # begin context for drom.toml
 # file drom.toml
-21f636d0d52fa37b8ec9b3ff0a096a5e:drom.toml
+fea97a2b430db317f3232b5841649a4c:drom.toml
 # end context for drom.toml
 
 # begin context for dune
@@ -95,7 +95,7 @@ c8281f46ba9a11d0b61bc8ef67eaa357:docs/style.css
 
 # begin context for dune-project
 # file dune-project
-fd87e93c8c63738bfa8bd2b058930035:dune-project
+2653b64b3eacd2d90444627d041f2e68:dune-project
 # end context for dune-project
 
 # begin context for opam/advent-of-code-2021.opam
@@ -117,6 +117,26 @@ a90c99ecd7d9cb51db3708553705141a:opam/advent-of-code-2021.opam
 # file opam/day3.opam
 e3f88994873aeceda064368b2b34b24f:opam/day3.opam
 # end context for opam/day3.opam
+
+# begin context for opam/day4.opam
+# file opam/day4.opam
+5f2607512649c242036770a8434a55f0:opam/day4.opam
+# end context for opam/day4.opam
+
+# begin context for opam/day5.opam
+# file opam/day5.opam
+9a6bbe4b2f3949a07051b88deb4f1ce6:opam/day5.opam
+# end context for opam/day5.opam
+
+# begin context for opam/day6.opam
+# file opam/day6.opam
+d602c4ce3c2b44802ec0b8a176397c02:opam/day6.opam
+# end context for opam/day6.opam
+
+# begin context for opam/day7.opam
+# file opam/day7.opam
+d92067d12af86c25b8588324adb3867e:opam/day7.opam
+# end context for opam/day7.opam
 
 # begin context for opam/lib.opam
 # file opam/lib.opam
@@ -220,7 +240,7 @@ d2e7a78042b6435ef269aa665a202cd4:src/day2/main.ml
 
 # begin context for src/day2/package.toml
 # file src/day2/package.toml
-1e9b8d4051ecc17ccaacf821863e4e05:src/day2/package.toml
+df7912813e57097cdf5710ab3fd2df13:src/day2/package.toml
 # end context for src/day2/package.toml
 
 # begin context for src/day2/version.mlt
@@ -247,6 +267,86 @@ dff2a762102a1cca26f985cf1d350427:src/day3/dune
 # file src/day3/version.mlt
 940d29cde7f16cd0916ed1d5f9c41154:src/day3/version.mlt
 # end context for src/day3/version.mlt
+
+# begin context for src/day4/dune
+# file src/day4/dune
+7921ab4caafcb580fc8821347c84fe9b:src/day4/dune
+# end context for src/day4/dune
+
+# begin context for src/day4/main.ml
+# file src/day4/main.ml
+dc6e6b718793a6a5ea41c9f00ffe4c45:src/day4/main.ml
+# end context for src/day4/main.ml
+
+# begin context for src/day4/package.toml
+# file src/day4/package.toml
+dc93a9944faf7afb682a09998dbe55cd:src/day4/package.toml
+# end context for src/day4/package.toml
+
+# begin context for src/day4/version.mlt
+# file src/day4/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/day4/version.mlt
+# end context for src/day4/version.mlt
+
+# begin context for src/day5/dune
+# file src/day5/dune
+fdce6ee5e16636601cfbb9cda2670264:src/day5/dune
+# end context for src/day5/dune
+
+# begin context for src/day5/main.ml
+# file src/day5/main.ml
+8858b1aed0aa95b9e4e4eb95ccc43048:src/day5/main.ml
+# end context for src/day5/main.ml
+
+# begin context for src/day5/package.toml
+# file src/day5/package.toml
+ee21971c63fb5b22e20ac008a2a81235:src/day5/package.toml
+# end context for src/day5/package.toml
+
+# begin context for src/day5/version.mlt
+# file src/day5/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/day5/version.mlt
+# end context for src/day5/version.mlt
+
+# begin context for src/day6/dune
+# file src/day6/dune
+b9185f3cb9917a6124808f083bdfab44:src/day6/dune
+# end context for src/day6/dune
+
+# begin context for src/day6/main.ml
+# file src/day6/main.ml
+0203f83e9726b317c550c6f622cad06c:src/day6/main.ml
+# end context for src/day6/main.ml
+
+# begin context for src/day6/package.toml
+# file src/day6/package.toml
+88ccf4fa45742e2c8e7657efb1896d02:src/day6/package.toml
+# end context for src/day6/package.toml
+
+# begin context for src/day6/version.mlt
+# file src/day6/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/day6/version.mlt
+# end context for src/day6/version.mlt
+
+# begin context for src/day7/dune
+# file src/day7/dune
+31d129f889275e7703999a560e4e5af6:src/day7/dune
+# end context for src/day7/dune
+
+# begin context for src/day7/main.ml
+# file src/day7/main.ml
+9ecff2796d598f57478e4b0804774239:src/day7/main.ml
+# end context for src/day7/main.ml
+
+# begin context for src/day7/package.toml
+# file src/day7/package.toml
+0f737f46707d447e390592715ae3f7ec:src/day7/package.toml
+# end context for src/day7/package.toml
+
+# begin context for src/day7/version.mlt
+# file src/day7/version.mlt
+940d29cde7f16cd0916ed1d5f9c41154:src/day7/version.mlt
+# end context for src/day7/version.mlt
 
 # begin context for src/lib/dune
 # file src/lib/dune

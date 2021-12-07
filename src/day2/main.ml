@@ -32,7 +32,7 @@ module Parser = struct
     return { opcode = op; amount = amt }
 end
 
-let inp = Lib.day_input "day2"
+let inp = Lib.day_input_lines "day2"
 
 let ops =
   List.map inp ~f:(fun x ->

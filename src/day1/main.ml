@@ -1,7 +1,7 @@
 open Core
 
 let inp =
-  Lib.day_input "day1" |> List.map ~f:(fun x -> String.strip x |> int_of_string)
+  Lib.day_input_lines "day1" |> List.map ~f:(fun x -> String.strip x |> int_of_string)
 
 let take_to l n t =
   let l2 = List.drop l n in

@@ -32,7 +32,7 @@ module Tree = struct
     go t []
 end
 
-let inp = Lib.day_input "day3"
+let inp = Lib.day_input_lines "day3"
 
 let ops =
   List.map inp ~f:(fun x ->

@@ -95,3 +95,72 @@
   )
  )
 
+(package
+ (name day4)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
+(package
+ (name day5)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
+(package
+ (name day6)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
+(package
+ (name day7)
+ (synopsis "The advent-of-code-2021 project")
+ (description "My solutions to the AOC 2021\n")
+ (depends
+   (ocaml (>= 4.07.0))
+   (lib (= version))
+   fpath
+   core
+   angstrom
+   ppx_let
+   ppx_inline_test
+   ppx_expect
+   odoc
+   ocamlformat
+  )
+ )
+
